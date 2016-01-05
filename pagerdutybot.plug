@@ -1,0 +1,9 @@
+[Python]
+Version=2+
+
+[Core]
+Name = PagerDutyBot
+Module = pagerdutybot
+
+[Documentation]
+Description = Responds with primary and secondary On-Call
